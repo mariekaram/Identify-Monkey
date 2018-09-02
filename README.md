@@ -1,0 +1,2 @@
+# Identify-Monkey
+Monkey classification is to classify major types of monkeys based on biometric cues. Usually facial images are used to extract features and then a classifier is applied to the extracted features to learn a type of monkey recognizer. That’s in Computer Vision and Biometrics fields. The monkey classification result is a type of monkey. I used two pre-trained model to compare between them and to find the best accuracy
